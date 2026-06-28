@@ -1,0 +1,6 @@
+.env
+test.exe
+fyne-cross
+.DS_Store
+fyne_metadata_init.go
+elphadeal.app
